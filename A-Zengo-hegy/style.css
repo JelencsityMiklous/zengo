@@ -1,0 +1,52 @@
+#content{
+	width: 888px;
+}
+#imageright{
+	margin-left: 20px;
+    float: right;
+    width: 200px;
+    height: 200px;
+    border: 3px solid green;
+    border-radius: 10px;
+
+}
+#imageleft{
+	margin-right: 40px;
+    margin-bottom: 80px;
+    float: left;
+    border: 3px solid green;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+
+}
+.kepszoveg{
+	text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    float: left;
+}
+
+h1,h2{
+    color: forestgreen;
+    text-transform: uppercase;
+}
+
+ol,ul{
+    text-align: justify;
+}
+
+a, a:visited{
+color: blue;
+}
+
+a:hover{
+    color: red;
+}
+body{
+    background-color: rgb(248, 244, 202);
+}
+
+#balos{
+    text-align: left;
+}
